@@ -5,8 +5,8 @@
 	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
 	RuntimeDocumentID="84A93818-846B-A1ED-97F9-7CF256FC6B52">
 	<DocumentID>84A93818-846B-A1ED-97F9-7CF256FC2B52</DocumentID>
-	<Name>Proj2</Name>
-	<Description>Proj2</Description>
+	<Name>Proj1</Name>
+	<Description>Proj1</Description>
 	<CreatedBy>user1@iHub</CreatedBy>
 	<CreationDate>2022-11-09T04:21:18.019</CreationDate>
 	<Notes/>
@@ -44,7 +44,7 @@
 	<SourceFolder>
 		<uri
 			id="84A93818-846B-A1ED-97F9-7CF256FEAB52"
-			path="Proj2"
+			path="Proj1"
 			type="com.cordys.cws.runtime.types.folder.StudioFolder"
 		/>
 	</SourceFolder>
@@ -74,7 +74,7 @@
 					<Texts>
 						<uri
 							id="84A93818-846B-A1ED-97F9-7CF256FE2B52"
-							path="Proj2/en-US_84A93818-846B-A1ED-97F9-7CF256FE2B52"
+							path="Proj1/en-US_84A93818-846B-A1ED-97F9-7CF256FE2B52"
 							type="com.cordys.cws.associations.MergeableAssociation"
 						/>
 					</Texts>
@@ -93,7 +93,7 @@
 			<Texts>
 				<uri
 					id="84A93818-846B-A1ED-97F9-7CF256FD2B52"
-					path="Proj2/TranslationInformation_84A93818-846B-A1ED-97F9-7CF256FD2B52"
+					path="Proj1/TranslationInformation_84A93818-846B-A1ED-97F9-7CF256FD2B52"
 					type="com.cordys.cws.associations.MergeableAssociation"
 				/>
 			</Texts>
